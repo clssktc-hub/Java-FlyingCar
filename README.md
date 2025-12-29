@@ -13,9 +13,10 @@ Java-FlyingCar
 7. FlyingCar (主角 - 整合所有系統)
 8. RegularCar (對照組 - 特斯拉)
 9. Airplane (對照組 - 飛機)
+
 而 Main 主程式包含所有的測試情境：
-• 測試 1: RegularCar 對照組。
-• 測試 2: Airplane 對照組。
-• 測試 3: FlyingCar 的正常飛行流程 (SOP/EMS 檢查)。
-• 測試 4: FlyingCar 的電力不足測試 (EMS 檢查)。
-• 測試 5: FlyingCar 的致命故障測試 (EPS 檢查)。
+測試 1: RegularCar 對照組。
+測試 2: Airplane 對照組。
+測試 3: FlyingCar 的正常飛行流程 (SOP/EMS 檢查)。
+測試 4: FlyingCar 的電力不足測試 (EMS 檢查)。
+測試 5: FlyingCar 的致命故障測試 (EPS 檢查)。
